@@ -1,0 +1,15 @@
+<svg width="246" height="117" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="119" width="248" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_2" height="110.999995" width="242" y="2.453129" x="1.500001" stroke-opacity="null" stroke-width="0" fill="#999999"/>
+  <text stroke="#000" transform="matrix(3.105927467346191,0,0,4.370370388031006,-369.0606331825256,-204.30497866123918) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="68.16499" x="123.35607" stroke-width="0" fill="#fcfcfc">OFBM</text>
+ </g>
+</svg>
